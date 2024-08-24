@@ -1,51 +1,58 @@
 # Debunking-ISOS-&-Windows-Optimizations
 
 W10 VS W11?
-- This has already been debunked, no difference
-- https://github.com/fr33thytweaks/W10-W11-Admin-Benchmarks
-- Because of this, W11 has been chosen for most custom ISO'S tested
+
+This has already been debunked, no difference <br>
+https://github.com/fr33thytweaks/W10-W11-Admin-Benchmarks <br>
+Because of this, W11 has been chosen for most custom ISO'S tested <br> <br>
 
 ISOS TESTED
 - FR33THY W11 23h2 & Opti Guide https://github.com/fr33thytweaks/Ultimate-Windows-Optimization-Guide
-- AtlasOS W11 23h2 https://atlasos.net/
-- ReviOS W11 23h2 https://revi.cc/
+- AtlasOS W11 23h2 https://atlasos.net
+- ReviOS W11 23h2 https://revi.cc
 - KirbyOS W11 23h2 https://x.com/NPKirbyy
 - GhostSpectreOS W11 23h2 Superlite https://docs.google.com/document/d/15tvRU9Bs_7qcHr0kb5E603A7PsZYYBtKOfc71Rmjbv4/edit
 - FoxOS W11 23h2 https://discord.com/invite/4Gg8n6WhPN
 - XoxOS W11 23h2 https://discord.com/invite/XTYEjZNPgX
 - KernelOS W11 23h2 https://discord.com/invite/kernelos
 - GgOS W10 20h2 (MW2, MW3, Fortnite Not Supported) https://discord.com/invite/A5BHSQV
-- XLiteOS W11 24h2 https://windowsxlite.com/ultralight/
+- XLiteOS W11 24h2 https://windowsxlite.com/ultralight
 - W10Stock 22h2 (HAGS ON, VBS OFF, UAC OFF, LOCAL ACT) https://www.microsoft.com/en-au/software-download/windows10
-- W11Stock 23h2 (HAGS ON, VBS OFF, UAC OFF, LOCAL ACT) https://www.microsoft.com/en-au/software-download/windows11
+- W11Stock 23h2 (HAGS ON, VBS OFF, UAC OFF, LOCAL ACT) https://www.microsoft.com/en-au/software-download/windows11 
 - 2025Server W11 24h2 (Full version & activated) https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025
 - 2022Server W10 21h2 (Full version & activated) https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
-Testing LTSC is unnecessary since it's essentially a branch of standard Windows builds with some bloat removed and only security updates.
+Testing LTSC is unnecessary since it's essentially a branch of standard Windows builds with some bloat removed and only security updates. <br> <br>
 
 CONSIDER BENCHMARK VARIATION
-- insert benchmarks here
 
-CONCLUSION <br>
-When considering benchmark variations, it's clear that custom ISOs are obsolete. Most Windows optimizations offer little to no performance gains. <br>
-The exception lies with low-end hardware, where minimal background processes and disabling Windows Defender can provide noticeable improvements due to cpu usage. <br>
-This likely explains the benchmark differences often seen when people promote custom ISOs—most of the time, these tests are conducted on systems with low-end CPUs. <br>
+<br> <br>
+
+CONCLUSION
+
+When considering benchmark variations, it's clear that custom ISOs are obsolete. <br> <br>
+
+Most Windows optimizations offer little to no performance gains. The exception lies with low-end hardware, where minimal background processes and disabling Windows Defender can provide noticeable improvements due to cpu usage.
+This likely explains the benchmark differences often seen when people promote custom ISOs—most of the time, these tests are conducted on systems with low-end CPUs.<br>
 Why risk installing a custom ISO that could contain malware, spyware, keyloggers, or even bitcoin miners? <br>
-A vanilla Windows installation is sufficient, safe and you can achieve optimizations using simple scripts instead (if needed).
 
-WHAT ABOUT LATENCYMON BENCHMARKS? <br>
+A vanilla Windows installation is sufficient, safe and you can achieve optimizations using simple scripts instead (if needed). <br> <br>
+
+WHAT ABOUT LATENCYMON BENCHMARKS?
+
 https://www.resplendence.com/latencymon <br>
-https://learn.microsoft.com/en-us/windows-hardware/test/wpt/ <br>
+https://learn.microsoft.com/en-us/windows-hardware/test/wpt/ <br> <br>
 LatencyMon and Xperf are only useful for diagnosing driver issues or audio dropouts related to drivers. <br>
-Over the years, their purpose has been misunderstood in tweaking communities, with many mistakenly believing they measure real end-to-end latency. <br>
+Their purpose has been misunderstood in tweaking communities, with many mistakenly believing they measure real end-to-end latency. <br> <br>
 In reality, driver latency is just a minor part of the overall latency chain, so obsessing over LatencyMon or Xperf results is a waste of time. <br>
 https://www.nvidia.com/en-au/geforce/guides/system-latency-optimization-guide/
 
 Real throughput latency is what truly matters and should be the focus when comparing optimizations. <br>
-NVIDIA has made it easy to measure this without the need for special tools by using Reflex-supported games and the latency stats available in FrameView or the GeForce overlay.<br>
-https://youtu.be/FtWyscCu9KU
+NVIDIA has made it easy to measure this without the need for special tools in FrameView or the GeForce overlay.<br>
+https://youtu.be/FtWyscCu9KU <br> <br>
 
-WHAT REALLY MATTERS THEN? <br>
+WHAT REALLY MATTERS THEN?
+
 It all boils down to the basics. Here’s my take on what truly matters when optimizing for more frames and lower latency. <br>
 I'm planning to demonstrate scaling with these factors in future videos, but for now, here are my thoughts. <br>
 
