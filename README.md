@@ -40,6 +40,62 @@ The differences are simply due to variations in benchmark runs.
 - Light Grey = 0.1% low FPS
 - Left MS = Throughput End To End System Latency
 
+Call Of Duty III 4k
+![image](https://github.com/user-attachments/assets/ffcd548c-f861-4c72-adad-88a11643b8c0)
+
+Call Of Duty III 1080p
+![image](https://github.com/user-attachments/assets/9d4f7750-a66c-454c-b1b4-547c22682c3a)
+
+Counter Strike 2 4k
+![image](https://github.com/user-attachments/assets/ec2c23a9-2648-4c15-b368-7f6b3d714cd5)
+
+Counter Strike 2 1080p
+![image](https://github.com/user-attachments/assets/2a39413f-b832-4f6c-9c67-e201f817725c)
+
+Fortnite 4k
+![image](https://github.com/user-attachments/assets/d32a2133-9d4d-4d1f-be5c-1e230e2afeb9)
+
+Fortnite 1080p
+![image](https://github.com/user-attachments/assets/f04b00bf-9b04-407f-bcf1-cc99b941c4b3)
+
+Forza Horizon 5 4k
+![image](https://github.com/user-attachments/assets/ae447b66-b85d-4519-ab88-11c91cd095a7)
+
+Forza Horizon 5 1080p
+![image](https://github.com/user-attachments/assets/58de9416-54a3-475f-8ceb-dfaf75381579)
+
+Hitman 3 4k
+![image](https://github.com/user-attachments/assets/6116a4da-d802-43a1-8971-fea404bc03f9)
+
+Hitman 3 1080p
+![image](https://github.com/user-attachments/assets/74e32ab7-4ef3-497c-a1ba-ac7f6802c129)
+
+Rainbow Six Siege 4k
+![image](https://github.com/user-attachments/assets/33a10730-ea13-42ad-b6d2-4b19c1718f26)
+
+Rainbow Six Siege 1080p
+![image](https://github.com/user-attachments/assets/f93258d1-e8d6-4640-9832-fe603aa1dce1)
+
+Call Of Duty II 4k
+![image](https://github.com/user-attachments/assets/64fed11b-ba77-43be-896b-f76f66ae4613)
+
+Call Of Duty II 1080p
+![image](https://github.com/user-attachments/assets/f695f47a-aedf-4bda-a15b-03e7afefdb13)
+
+<br> <br>
+Call Of Duty II 1080p - RERUN/REINSTALLS OF SERVER VS PRO, FOR MY SANITY USING BENCHMARK ONLY <br> <br>
+
+W10 Call Of Duty II 1080p
+![image](https://github.com/user-attachments/assets/4d836230-f820-418b-b74a-305f4f0ca68e)
+
+W11 Call Of Duty II 1080p
+![image](https://github.com/user-attachments/assets/32540c3b-ef80-40a7-8332-0eb1e85543a2)
+
+W10 Server 2022 Call Of Duty II 1080p
+![image](https://github.com/user-attachments/assets/65051701-f995-480c-85e2-dc5530712327)
+
+W11 Server 2025 Call Of Duty II 1080p
+![image](https://github.com/user-attachments/assets/8d38565a-9399-47c7-9b53-50fadd3229cc)
 
 CONCLUSION
 
