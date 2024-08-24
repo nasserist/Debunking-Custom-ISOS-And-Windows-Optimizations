@@ -3,7 +3,7 @@
 W10 VS W11?
 - This has already been debunked, no difference
 - https://github.com/fr33thytweaks/W10-W11-Admin-Benchmarks
-- Because of this, w11 has been chosen for most custom ISO'S tested
+- Because of this, W11 has been chosen for most custom ISO'S tested
 
 ISOS TESTED
 - FR33THY W11 23h2 & Opti Guide https://github.com/fr33thytweaks/Ultimate-Windows-Optimization-Guide
