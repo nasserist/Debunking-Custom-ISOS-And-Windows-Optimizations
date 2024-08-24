@@ -5,7 +5,7 @@ W10 VS W11 VS ADMIN ACCOUNT?
 - https://github.com/fr33thytweaks/W10-W11-Admin-Benchmarks <br>
 - Because of this, W11 has been chosen for most custom ISO'S tested <br>
 
-Let's clear up the confusion around the 24H2 update: there is no performance difference when running games or benchmarks on Windows 10 or Windows 11 Admin or Local Account across all versions, as long as you're running the game as an administrator.
+Let's clear up the confusion around the 24H2 update: there is no performance difference when running games or benchmarks on Windows 10 or Windows 11/Admin or Local Account across all versions, as long as you're running the game as an administrator.
 
 The explanations from YouTubers on this topic have become muddled and misleading. People are mistakenly thinking that 24H2 is some kind of golden performance fix, but that's simply not the case.
 Yes, some games do seem to run better when launched as an administrator. The 24H2 update and future Windows plans aim to address this, so games won’t need to be run as admin to achieve optimal performance.
