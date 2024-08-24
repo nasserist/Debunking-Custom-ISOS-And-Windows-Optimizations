@@ -4,7 +4,7 @@ W10 VS W11?
 
 This has already been debunked, no difference <br>
 https://github.com/fr33thytweaks/W10-W11-Admin-Benchmarks <br>
-Because of this, W11 has been chosen for most custom ISO'S tested <br> <br>
+Because of this, W11 has been chosen for most custom ISO'S tested <br>
 
 ISOS TESTED
 - FR33THY W11 23h2 & Opti Guide https://github.com/fr33thytweaks/Ultimate-Windows-Optimization-Guide
@@ -22,21 +22,19 @@ ISOS TESTED
 - 2025Server W11 24h2 (Full version & activated) https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025
 - 2022Server W10 21h2 (Full version & activated) https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
-Testing LTSC is unnecessary since it's essentially a branch of standard Windows builds with some bloat removed and only security updates. <br> <br>
+Testing LTSC is unnecessary since it's essentially a branch of standard Windows builds with some bloat removed and only security updates. <br>
 
 CONSIDER BENCHMARK VARIATION
 
-<br> <br>
-
 CONCLUSION
 
-When considering benchmark variations, it's clear that custom ISOs are obsolete. <br> <br>
+When considering benchmark variations, it's clear that custom ISOs are obsolete. <br>
 
 Most Windows optimizations offer little to no performance gains. The exception lies with low-end hardware, where minimal background processes and disabling Windows Defender can provide noticeable improvements due to cpu usage.
 This likely explains the benchmark differences often seen when people promote custom ISOs—most of the time, these tests are conducted on systems with low-end CPUs.<br>
 Why risk installing a custom ISO that could contain malware, spyware, keyloggers, or even bitcoin miners? <br>
 
-A vanilla Windows installation is sufficient, safe and you can achieve optimizations using simple scripts instead (if needed). <br> <br>
+A vanilla Windows installation is sufficient, safe and you can achieve optimizations using simple scripts instead (if needed). <br>
 
 WHAT ABOUT LATENCYMON BENCHMARKS?
 
@@ -49,7 +47,7 @@ https://www.nvidia.com/en-au/geforce/guides/system-latency-optimization-guide/
 
 Real throughput latency is what truly matters and should be the focus when comparing optimizations. <br>
 NVIDIA has made it easy to measure this without the need for special tools in FrameView or the GeForce overlay.<br>
-https://youtu.be/FtWyscCu9KU <br> <br>
+https://youtu.be/FtWyscCu9KU <br>
 
 WHAT REALLY MATTERS THEN?
 
