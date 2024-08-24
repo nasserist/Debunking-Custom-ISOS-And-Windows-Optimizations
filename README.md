@@ -16,8 +16,8 @@ ISOS TESTED
 - KernelOS W11 23h2 https://discord.com/invite/kernelos
 - GgOS W10 20h2 (MW2, MW3, Fortnite Not Supported) https://discord.com/invite/A5BHSQV
 - XLiteOS W11 24h2 https://windowsxlite.com/ultralight/
-- W10Stock 22h2 (HAGS ON, VBS OFF, UAC OFF) https://www.microsoft.com/en-au/software-download/windows10
-- W11Stock 23h2 (HAGS ON, VBS OFF, UAC OFF) https://www.microsoft.com/en-au/software-download/windows11
+- W10Stock 22h2 (HAGS ON, VBS OFF, UAC OFF, LOCAL ACT) https://www.microsoft.com/en-au/software-download/windows10
+- W11Stock 23h2 (HAGS ON, VBS OFF, UAC OFF, LOCAL ACT) https://www.microsoft.com/en-au/software-download/windows11
 - 2025Server W11 24h2 (Converted to full version & activated) https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025
 - 2022Server W10 21h2 (Converted to full version & activated) https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
