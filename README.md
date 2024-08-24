@@ -1,6 +1,6 @@
 # Debunking-ISOS-&-Windows-Optimizations
 
-W10 VS W11 VS ADMIN ACCOUNT?
+**W10 VS W11 VS ADMIN ACCOUNT?**
 - This has already been debunked, no difference <br>
 - https://github.com/fr33thytweaks/W10-W11-Admin-Benchmarks <br>
 - Because of this, W11 has been chosen for most custom ISO'S tested <br>
@@ -12,7 +12,7 @@ Yes, some games do seem to run better when launched as an administrator. The 24H
 Due to this stock W10Stock, W11Stock, W10Server and W11Server had UAC disabled during tests to rule out any issues.
 
 
-ISOS TESTED
+**ISOS TESTED**
 - FR33THY W11 23h2 & Opti Guide https://github.com/fr33thytweaks/Ultimate-Windows-Optimization-Guide
 - AtlasOS W11 23h2 https://atlasos.net
 - ReviOS W11 23h2 https://revi.cc
@@ -30,7 +30,7 @@ ISOS TESTED
 
 Testing LTSC is unnecessary since it's essentially a branch of standard Windows builds with some bloat removed and only security updates. <br>
 
-CONSIDER BENCHMARK VARIATION
+**CONSIDER BENCHMARK VARIATION**
 
 If you're analyzing these benchmarks to choose the best ISO, STOP! <br>
 The differences are simply due to variations in benchmark runs.
@@ -97,7 +97,7 @@ W10 Server 2022 Call Of Duty II 1080p
 W11 Server 2025 Call Of Duty II 1080p
 ![image](https://github.com/user-attachments/assets/8d38565a-9399-47c7-9b53-50fadd3229cc)
 
-CONCLUSION
+**CONCLUSION**
 
 When considering benchmark variations, it's clear that custom ISOs are obsolete. <br>
 
@@ -112,7 +112,7 @@ After reinstalling and retesting Windows 10, Windows 11, Windows 11 2025 Server,
 For some reason, the server versions perform better when CPU-bound in MW2. This seems unexplainable from my perspective, likely due to poor engine optimization.
 Side note, MW2 performed poorly on Windows 10 2022 Server unless chipset drivers were installed, benchmarks were identical on the other windows builds with or without chipset drivers.
 
-WHAT ABOUT LATENCYMON BENCHMARKS?
+**WHAT ABOUT LATENCYMON BENCHMARKS?**
 
 https://www.resplendence.com/latencymon <br>
 https://learn.microsoft.com/en-us/windows-hardware/test/wpt/ <br> <br>
@@ -125,7 +125,7 @@ Real throughput latency is what truly matters and should be the focus when compa
 NVIDIA has made it easy to measure this without the need for special tools in FrameView or the GeForce overlay.<br>
 https://youtu.be/FtWyscCu9KU <br>
 
-WHAT REALLY MATTERS THEN?
+**WHAT REALLY MATTERS THEN?**
 
 It all boils down to the basics. Here’s my take on what truly matters when optimizing for more frames and lower latency.
 I'm planning to demonstrate scaling with these factors in future videos, but for now, here are my thoughts. <br>
@@ -147,7 +147,7 @@ I'm planning to demonstrate scaling with these factors in future videos, but for
 - As discussed here, the conclusion is that Defender and background bloat primarily impact low-end CPUs and systems the most.
 - Background programs running that use CPU, GPU usage
 
-SYSTEM
+**SYSTEM**
 - MSI MPG 321URX 240hz 4k QD OLED (4k tests in 4k resolution, 1080p tests in 1080p resolution. Both display scaled)
 - 7950x3d (ccd1 disabled), = 7800x3d
 - PBO enabled, -10 all core, +200mhz
@@ -193,14 +193,14 @@ SYSTEM
 - Arctic Freezer III 360, full speed
 - Samsung 970 pro 1tb
 
-TOOLS
+**TOOLS**
 - Driver 560.81, https://us.download.nvidia.com/Windows/560.81/560.81-desktop-win10-win11-64bit-international-dch-whql.exe
 - Frameview, measure, https://www.nvidia.com/en-au/geforce/technologies/frameview/
 - Capframe X, compare, https://www.capframex.com/
 - External latency end to end tool, including Logitech G303 Shroud Edition latency, build guide here soon
 - Geforce in game latency flash, https://nvidia.custhelp.com/app/answers/detail/a_id/5175/~/what-is-the-%E2%80%9Cflash-indicator%E2%80%9D-or-%E2%80%9Clatency-flash%E2%80%9D-option-in-my-nvidia
 
-BENCHMARKS
+**BENCHMARKS**
 - Call Of Duty III
 - Counter Strike 2, https://steamcommunity.com/workshop/filedetails/?id=3240880604
 - Fortnite, https://dropnite.com/map.php?id=1682
@@ -209,13 +209,13 @@ BENCHMARKS
 - Rainbow 6, vulkan
 - Call Of Duty II
 
-CONFIGS
+**CONFIGS**
 - Rebar forced on for all titles, rebar forced off mw2 and mw3, via inspector https://github.com/Orbmu2k/nvidiaProfileInspector/releases
 - All low, ultra textures, ultra AF
 - 1080p & 4k
 - Config files included here
 
-TO KEEP IT FAIR all installs are using the same
+**TO KEEP IT FAIR all installs are using the same**
 - Graphics card overclock
 - Nvidia driver settings/inspector settings
 - BIOS settings
