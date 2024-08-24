@@ -18,8 +18,8 @@ ISOS TESTED
 - XLiteOS W11 24h2 https://windowsxlite.com/ultralight/
 - W10Stock 22h2 (HAGS ON, VBS OFF, UAC OFF, LOCAL ACT) https://www.microsoft.com/en-au/software-download/windows10
 - W11Stock 23h2 (HAGS ON, VBS OFF, UAC OFF, LOCAL ACT) https://www.microsoft.com/en-au/software-download/windows11
-- 2025Server W11 24h2 (Converted to full version & activated) https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025
-- 2022Server W10 21h2 (Converted to full version & activated) https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
+- 2025Server W11 24h2 (Full version & activated) https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025
+- 2022Server W10 21h2 (Full version & activated) https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
 Testing LTSC is unnecessary since it's essentially a branch of standard Windows builds with some bloat removed and only security updates.
 
