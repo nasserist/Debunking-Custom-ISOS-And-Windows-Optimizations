@@ -65,6 +65,7 @@ I'm planning to demonstrate scaling with these factors in future videos, but for
 - Stability, an unstable system will cause framerate and latency issues
 - Good/performance graphic driver settings
 - Good/Low game config and in game settings (to achieve higher fps and lower gpu usage)
+- Flip model in game, using hardware indepenant flip or legacy flip
 - Lowering resolution, dlss or fsr techniques (to achieve higher fps and lower gpu usage)
 - Nvidia reflex on + boost, will drastically lower your latency in a gpu bound situation
 - As discussed here, the conclusion is that Defender and background bloat primarily impact low-end CPUs and systems the most.
