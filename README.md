@@ -140,5 +140,5 @@ TO KEEP IT FAIR all installs are using the same
 - Game configs
 - Game launcher settings (hardware accel off, overlay off etc)
 - Any post install optimization scripts included in the ISO's were ran (besides Nvidia driver settings/inspector settings)
-- Stock W10 ISO tests = HAGS on, VBS off, UAC disabled. (HAGS off by default, VBS off by default, UAC on by default)
-- Stock W11 ISO tests = HAGS on, VBS off, UAC disabled. (HAGS on by default, VBS on by default, UAC on by default)
+- Stock W10 Pro ISO tests = HAGS on, VBS off, UAC disabled, Local Account. (HAGS off by default, VBS off by default, UAC on by default)
+- Stock W11 Pro ISO tests = HAGS on, VBS off, UAC disabled, Local Account. (HAGS on by default, VBS on by default, UAC on by default)
