@@ -26,15 +26,29 @@ Testing LTSC is unnecessary since it's essentially a branch of standard Windows 
 
 CONSIDER BENCHMARK VARIATION
 
+If you're analyzing these benchmarks to choose the best ISO, STOP! <br>
+The differences are simply due to variations in benchmark runs.
+
+- Blue = Average FPS
+- Dark Grey = 1% low FPS
+- Light Grey = 0.1% low FPS
+- Left MS = Throughput End To End System Latency
+
+
 CONCLUSION
 
 When considering benchmark variations, it's clear that custom ISOs are obsolete. <br>
 
 Most Windows optimizations offer little to no performance gains. The exception lies with low-end hardware, where minimal background processes and disabling Windows Defender can provide noticeable improvements due to cpu usage.
-This likely explains the benchmark differences often seen when people promote custom ISOs—most of the time, these tests are conducted on systems with low-end CPUs.<br>
-Why risk installing a custom ISO that could contain malware, spyware, keyloggers, or even bitcoin miners? <br>
+This likely explains the benchmark differences often seen when people promote custom ISOs—most of the time, these tests are usually conducted on systems with low-end CPUs.<br>
 
+Why risk installing a custom ISO that could contain malware, spyware, bad optimizations, keyloggers, or even bitcoin miners?
 A vanilla Windows installation is sufficient, safe and you can achieve optimizations using simple scripts instead (if needed). <br>
+
+There's one exception I can't explain: Windows 11 2025 Server and Windows 10 2022 Server perform significantly better when CPU-bound in the 1080p Call of Duty: MW2 2022 benchmark.
+After reinstalling and retesting Windows 10, Windows 11, Windows 11 2025 Server, and Windows 10 2022 Server, and running the MW2 benchmark as well as testing in a real match, I reached the same conclusion.
+For some reason, the server versions perform better when CPU-bound in MW2. This seems unexplainable from my perspective, likely due to poor engine optimization.
+Side note, MW2 performed poorly on Windows 10 2022 Server unless chipset drivers were installed, benchmarks were identical on the other windows builds with or without chipset drivers.
 
 WHAT ABOUT LATENCYMON BENCHMARKS?
 
