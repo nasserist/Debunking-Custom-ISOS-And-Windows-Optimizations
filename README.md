@@ -101,8 +101,8 @@ W11 Server 2025 Call Of Duty II 1080p
 
 When considering benchmark variations, it's clear that custom ISOs are obsolete. <br>
 
-Most Windows optimizations offer little to no performance gains. The exception lies with low-end hardware, where minimal background processes and disabling Windows Defender can provide noticeable improvements due to cpu usage.
-This likely explains the benchmark differences often seen when people promote custom ISOs—most of the time, these tests are usually conducted on systems with low-end CPUs.<br>
+Most Windows optimizations offer little to no performance gains. The exception lies with older low-end hardware, where minimal background processes and disabling Windows Defender can provide noticeable improvements due to cpu usage. 
+This likely explains the benchmark differences often seen when people promote custom ISOs—most of the time, these tests are usually conducted on systems with a few generations old, low-end CPUs.<br>
 
 Why risk installing a custom ISO that could contain malware, spyware, bad optimizations, keyloggers, or even bitcoin miners?
 A vanilla Windows installation is sufficient, safe and you can achieve optimizations using simple scripts instead (if needed at all). <br>
