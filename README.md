@@ -49,7 +49,7 @@ Most Windows optimizations offer little to no performance gains. The exception l
 This likely explains the benchmark differences often seen when people promote custom ISOs—most of the time, these tests are usually conducted on systems with low-end CPUs.<br>
 
 Why risk installing a custom ISO that could contain malware, spyware, bad optimizations, keyloggers, or even bitcoin miners? <br>
-A vanilla Windows installation is sufficient, safe and you can achieve optimizations using simple scripts instead (if needed). <br>
+A vanilla Windows installation is sufficient, safe and you can achieve optimizations using simple scripts instead (if needed at all). <br>
 
 There's one exception I can't explain: Windows 11 2025 Server and Windows 10 2022 Server perform significantly better when CPU-bound in the 1080p Call of Duty: MW2 2022 benchmark.
 After reinstalling and retesting Windows 10, Windows 11, Windows 11 2025 Server, and Windows 10 2022 Server, and running the MW2 benchmark as well as testing in a real match, I reached the same conclusion.
